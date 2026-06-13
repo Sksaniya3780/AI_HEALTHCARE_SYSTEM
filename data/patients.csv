@@ -1,0 +1,6 @@
+patient_id,name,age,gender,weight,height,blood_group,medical_history
+1,Rahul Sharma,45,Male,75,170,B+,Diabetes
+2,Priya Patel,32,Female,58,160,O+,Hypertension
+3,Amit Kumar,55,Male,80,175,A+,Heart Disease
+4,Sneha Reddy,28,Female,52,158,AB+,Healthy
+5,Arjun Singh,40,Male,78,172,O-,Asthma

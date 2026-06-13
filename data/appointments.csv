@@ -1,0 +1,6 @@
+appointment_id,patient_name,doctor_name,appointment_date,status
+A001,Rahul Sharma,Dr. Rajesh Mehta,2026-06-15,Confirmed
+A002,Priya Patel,Dr. Neha Verma,2026-06-16,Pending
+A003,Amit Kumar,Dr. Rajesh Mehta,2026-06-17,Confirmed
+A004,Sneha Reddy,Dr. Anjali Gupta,2026-06-18,Completed
+A005,Arjun Singh,Dr. Vivek Sharma,2026-06-19,Pending

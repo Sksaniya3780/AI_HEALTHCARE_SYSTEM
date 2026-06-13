@@ -1,0 +1,6 @@
+resource_id,resource_name,category,quantity,available,allocated
+R001,ICU Beds,Bed,50,20,30
+R002,General Beds,Bed,100,60,40
+R003,Ventilators,Equipment,30,10,20
+R004,Oxygen Cylinders,Equipment,200,120,80
+R005,Wheelchairs,Equipment,40,25,15

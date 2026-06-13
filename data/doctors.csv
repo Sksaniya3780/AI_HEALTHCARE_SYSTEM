@@ -1,0 +1,6 @@
+doctor_id,name,specialization,experience,qualification,available_slots
+D101,Dr. Rajesh Mehta,Cardiology,12,MD Cardiology,09:00-12:00
+D102,Dr. Neha Verma,Neurology,8,MD Neurology,10:00-13:00
+D103,Dr. Kiran Rao,Orthopedics,15,MS Orthopedics,14:00-17:00
+D104,Dr. Anjali Gupta,Dermatology,7,MD Dermatology,11:00-15:00
+D105,Dr. Vivek Sharma,General Medicine,10,MBBS MD,09:00-16:00
